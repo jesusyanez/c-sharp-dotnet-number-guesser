@@ -1,1 +1,1 @@
-# c-sharp-dotnet-number-guesser
+# c#-.net-number-guesser
